@@ -1,1 +1,3 @@
 #Lenas README
+-Hallo
+-Welt
